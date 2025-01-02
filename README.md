@@ -1,6 +1,6 @@
 # Introducing myself 👋
 
-Hi there, I'm Reem. I'm a sophomore at Northwestern University, pursuing a bachelors degree in Computer Science, with a keen interest in software, sustainability, and data-driven solutions.
+Hi there, I'm Reem. I'm a student at Northwestern University, pursuing a bachelors degree in Computer Science, with a keen interest in software, sustainability, and data-driven solutions.
 
 # 📚 Projects
 Welcome to my portfolio. Here, I have some examples of previous works and personal projects.
