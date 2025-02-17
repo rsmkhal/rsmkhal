@@ -6,7 +6,7 @@ Hi there, I'm Reem. I'm a student at Northwestern University, pursuing a bachelo
 Welcome to my portfolio. Here, I have some examples of previous works and personal projects.
 
 # 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/reem-khalid-oh14/)
+[LinkedIn](https://www.linkedin.com/in/reem-sm-khalid/)
 
 <!--
 **rsmkhal/rsmkhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
